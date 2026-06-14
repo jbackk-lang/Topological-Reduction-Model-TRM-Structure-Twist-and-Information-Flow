@@ -319,7 +319,8 @@ Gdy skręt zanika, fala zanika — i pozostaje czyste φ.**
 
 ---
 
-![Fala Topologiczna](diagrams/fala_topologiczna.png)
+![Fala Topologiczna](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow/blob/main/diagrams/fala_topologiczna.png)
+
 
 
 
