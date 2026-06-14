@@ -317,6 +317,8 @@ To jest stan φ.
 **Fala topologiczna to zmiana skrętu, która wymusza redukcję informacji i przejścia strukturalne.  
 Gdy skręt zanika, fala zanika — i pozostaje czyste φ.**
 
+---
+
 ![Fala Topologiczna](fala_topologiczna.png)
 
 
