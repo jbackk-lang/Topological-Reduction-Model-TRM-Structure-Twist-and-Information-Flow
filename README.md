@@ -51,6 +51,52 @@ Gdy skręt zostaje całkowicie zredukowany, system przechodzi w:
 - nieskończoną rotację (stabilny stan końcowy)
 
 ---
+Topological-Reduction-Model/
+│
+├── README.md
+├── LICENSE
+│
+├── /core/
+│   ├── operators.md
+│   ├── topology.md
+│   ├── twist-reduction-law.md
+│   ├── phi-limit.md
+│   └── glossary.md
+│
+├── /math/
+│   ├── reduction-equations.ipynb
+│   ├── scaling-laws.md
+│   ├── time-power-model.md
+│   └── phi-vs-pi-analysis.md
+│
+├── /physics/
+│   ├── leptons.md
+│   ├── decay-series.md
+│   ├── stability-map.md
+│   └── topological-waves.md
+│
+├── /biology/
+│   ├── evolutionary-ladder.md
+│   ├── twist-levels-species.md
+│   ├── reduction-in-genomes.md
+│   └── human-stability.md
+│
+├── /geology/
+│   ├── extinction-events.md
+│   ├── isotope-anomalies.md
+│   ├── wave-timing.md
+│   └── geological-scaling.md
+│
+├── /diagrams/
+│   ├── ladder.png
+│   ├── twist-flow.png
+│   ├── phi-limit.png
+│   └── wave-sequence.png
+│
+└── /examples/
+    ├── particle-to-biology.md
+    ├── reduction-scenarios.md
+    └── phi-endstate.md
 
 ## 🔷 Struktura repozytorium
 
