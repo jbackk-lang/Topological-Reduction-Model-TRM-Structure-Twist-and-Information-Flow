@@ -52,58 +52,17 @@ Gdy skręt zostaje całkowicie zredukowany, system przechodzi w:
 
 ---
 Topological-Reduction-Model/
-- README.md
--LICENSE
-_
--/core/
--- operators.md
--- topology.md
--- twist-reduction-law.md
--- phi-limit.md
---glossary.md
-_
--/math/
---reduction-equations.ipynb
---scaling-laws.md
--- time-power-model.md
---phi-vs-pi-analysis.md
-_
--/physics/
---leptons.md
--- decay-series.md
--- stability-map.md
--- topological-waves.md
-_
-- /biology/
---evolutionary-ladder.md
---twist-levels-species.md
--- reduction-in-genomes.md
---human-stability.md
-_
--/geology/
--- extinction-events.md
--- isotope-anomalies.md
--- wave-timing.md
---geological-scaling.md
-_
-- /diagrams/
---ladder.png
--- twist-flow.png
--- phi-limit.png
--- wave-sequence.png
-_
--/examples/
-  --particle-to-biology.md
-  --  reduction-scenarios.md
-   -- phi-endstate.md
+## 📑 Struktura dokumentu
 
-## 🔷 Struktura repozytorium
+- [Wprowadzenie](#wprowadzenie)
+- [Założenia modelu TRM](#założenia-modelu-trm)
+- [Operatorzy topologiczni](#operatorzy-topologiczni)
+- [Fala topologiczna](#fala-topologiczna)
+- [Wiek Wszechświata zapisany w cząsteczce](#wiek-wszechświata-zapisany-w-cząsteczce)
+- [Struktura repozytorium](#struktura-repozytorium)
+- [Zastosowania modelu](#zastosowania-modelu)
+- [Wnioski](#wnioski)
 
-- **/model/** — definicje operatorów τ, ρ, Λ, J  
-- **/diagrams/** — drabiny przejść i schematy topologiczne  
-- **/geology/** — analiza fal przejść w czasie geologicznym  
-- **/biology/** — redukcja skrętu w ewolucji  
-- **/physics/** — analogie z leptonami i rozpadem pierwiastków  
 
 ---
 # Wiek Wszechświata zapisany w cząsteczce  
