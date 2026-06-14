@@ -319,7 +319,8 @@ Gdy skręt zanika, fala zanika — i pozostaje czyste φ.**
 
 ---
 
-![Fala Topologiczna](fala_topologiczna.png)
+![Fala Topologiczna](diagrams/fala_topologiczna.png)
+
 
 
 
