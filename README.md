@@ -54,44 +54,44 @@ Gdy skręt zostaje całkowicie zredukowany, system przechodzi w:
 Topological-Reduction-Model/
 - README.md
 -LICENSE
-│
+_
 -/core/
 -- operators.md
 -- topology.md
 -- twist-reduction-law.md
 -- phi-limit.md
 --glossary.md
-│
+_
 -/math/
 --reduction-equations.ipynb
 --scaling-laws.md
 -- time-power-model.md
 --phi-vs-pi-analysis.md
-│
+_
 -/physics/
 --leptons.md
 -- decay-series.md
 -- stability-map.md
 -- topological-waves.md
-│
+_
 - /biology/
 --evolutionary-ladder.md
 --twist-levels-species.md
 -- reduction-in-genomes.md
 --human-stability.md
-│
+_
 -/geology/
 -- extinction-events.md
 -- isotope-anomalies.md
 -- wave-timing.md
 --geological-scaling.md
-│
+_
 - /diagrams/
 --ladder.png
 -- twist-flow.png
 -- phi-limit.png
 -- wave-sequence.png
-│
+_
 -/examples/
   --particle-to-biology.md
   --  reduction-scenarios.md
