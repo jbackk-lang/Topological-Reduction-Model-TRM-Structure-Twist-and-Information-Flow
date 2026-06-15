@@ -271,4 +271,5 @@ a duża fala (grawitacyjna/topologiczna) mogła przesunąć lokalną geometrię,
 co tłumaczy wszystkie anomalia bez wprowadzania nowych bytów.
 
 
-(//github.com/jbackk-lang/astro-map/blob/main/aR.png)
+![aR](https://raw.githubusercontent.com/jbackk-lang/astro-map/main/aR.png)
+
