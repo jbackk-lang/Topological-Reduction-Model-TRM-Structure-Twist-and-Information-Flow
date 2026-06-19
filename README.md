@@ -139,4 +139,4 @@ To tłumaczy:
 - metabolizm dinozaurów,
 - oraz obecny stan pola magnetycznego.
 
-![Opis obrazu]([https://jbackk-lang.github.io/GIA-and-TIMDR/NAZWA_PLIKU.png)](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow/blob/main/Copilot_20260614_075419.png)
+![Opis obrazu](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow/blob/main/Copilot_20260614_075419.png)
