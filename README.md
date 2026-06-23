@@ -1,3 +1,8 @@
+## 🔗 Wszystkie modele i repozytoria
+Pełna lista projektów znajduje się na stronie:
+https://jbackk-lang.github.io
+---
+
 # Topological Reduction Model (TRM)
 
 Model opisuje, jak fale topologiczne powstają w strukturze Möbius‑X, przechodzą między pasmami, redukują złożoność ρ, zmieniają skręt τ i wywołują skokowe przejścia ΔS w biosferze, geologii, polu magnetycznym i kosmosie.
