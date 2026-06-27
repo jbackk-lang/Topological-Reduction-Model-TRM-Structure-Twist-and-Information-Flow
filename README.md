@@ -145,3 +145,5 @@ To tłumaczy:
 - oraz obecny stan pola magnetycznego.
 
 ![Opis obrazu](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow/blob/main/Copilot_20260614_075419.png)
+
+![Dolna i Górna Helisa — TRM](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow/blob/main/Copilot_20260627_213513.png)
