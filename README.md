@@ -1,6 +1,6 @@
-## 🔗 Wszystkie modele i repozytoria
-Pełna lista projektów znajduje się na stronie:
-https://jbackk-lang.github.io
+## Dokumentacja online
+https://jbackk-lang.github.io/
+# Analizator Giełdowy oparty na TIMDR/GIA
 ---
 
 # Topological Reduction Model (TRM)
