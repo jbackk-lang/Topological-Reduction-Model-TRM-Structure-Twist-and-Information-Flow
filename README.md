@@ -1,6 +1,5 @@
 ## Dokumentacja online
 https://jbackk-lang.github.io/
-# Analizator Giełdowy oparty na TIMDR/GIA
 ---
 ![Diagram TRM / GIA / TIMDR](https://github.com/jbackk-lang/GIA-and-TIMDR/raw/main/diagram.png)
 # Topological Reduction Model (TRM)
